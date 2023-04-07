@@ -4,3 +4,11 @@
     position: sticky;
     top: 0;
 }
+.delete-cart{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 18px;
+    background: #ff0000;
+}
